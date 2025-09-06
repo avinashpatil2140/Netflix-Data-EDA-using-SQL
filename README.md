@@ -2,7 +2,9 @@
 Exploratory Data Analysis on Netflix dataset using SQL. Designed schema, cleaned data, and wrote queries to analyze trends by type, genre, country, and ratings. Applied CTEs, window &amp; string functions to uncover insights on actors, directors, and content patterns.
 
 [] (https://github.com/avinashpatil2140/Netflix-Data-EDA-using-SQL/blob/main/netflix-logo-png-2582.png
-)
+
+![Alt Text](https://github.com/avinashpatil2140/Netflix-Data-EDA-using-SQL/blob/main/netflix-logo-png-2582.png)
+
 ```create table netflix1
 (
  	type
